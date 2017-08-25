@@ -70,7 +70,7 @@
             android:layout_marginLeft="10dp"
             android:onClick="onClickSwitchFlash"
             android:src="@drawable/btn_flash_selector"
-            android:visibility="gone" />
+            android:visibility="visible" />
     </LinearLayout>
 
     <LinearLayout
